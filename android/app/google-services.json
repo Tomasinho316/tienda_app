@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "445307256775",
+    "project_id": "tiendaapp-f4bd1",
+    "storage_bucket": "tiendaapp-f4bd1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445307256775:android:0ca9fdff317f31dfcaa3e2",
+        "android_client_info": {
+          "package_name": "com.example.tienda_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_8HzABulfaYBTPIbpt5Ye4GGhKXdB0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445307256775:android:87db601a1c95a71ccaa3e2",
+        "android_client_info": {
+          "package_name": "com.tomastorres.tiendaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_8HzABulfaYBTPIbpt5Ye4GGhKXdB0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
